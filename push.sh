@@ -15,4 +15,4 @@ git add push.sh
 git add pull.sh
 git add .gitignore
 
-git commit -m "$1"
+git commit -m "$1" && git push
